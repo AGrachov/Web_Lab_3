@@ -1,0 +1,35 @@
+.mainBlock{
+   /*  border: 2px solid red; */
+    padding: 1px;
+    width: 270px;
+    margin: 0 auto;
+    text-align: center
+}
+.cell{
+    border: 1px solid crimson;
+    width: 28px;
+    height: 28px;
+}
+.whitelCell{
+    background-color: white;
+
+}
+.blackCell{
+    background-color: black;
+   
+}
+.horizontalLine{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.cellWithoutBorder{
+    margin-top: 2.5px;
+    width: 28px;
+    height: 28px; 
+}
+img{
+    width: 28px;
+    height: 28px;
+}
